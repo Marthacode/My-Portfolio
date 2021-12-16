@@ -1,0 +1,51 @@
+.app{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+.mee{
+  border-radius: 50%;
+  width: 60%;
+  height: 90%;
+  margin-left: 50px;
+}
+
+.navigation{
+  background-color: black;
+  
+}
+.about h1,h5{
+  text-align: center;
+}
+.about h2{
+  text-align: center;
+  border-bottom: 1px solid #fff;
+} 
+.footer{
+  background-color:	black	;
+}
+
+input{
+  border: none;
+  border-radius: 6px;
+  padding: 12px 20px;
+}
+.list img{
+  background-color: #ffc107;
+  width: 30px;
+}
+ul{
+  list-style-type: none;
+}
+.portfolio h1{
+  border-bottom: 1px solid #fff;
+  text-align: center;
+}
+.portfolio img{
+  width: 400px;
+}
+.mywork{
+  text-align: center;
+}
+
+
